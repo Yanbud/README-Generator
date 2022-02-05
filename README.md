@@ -3,7 +3,7 @@
 ## Description 
 This is a command-line application that dynamically generates a professional README.md file from a user's input. Users can quickly and easily create a README file and devote more time to working on the project.
 ## Usage
-The application is invoked by running the command: 
+Users can run the command to start creating the README.md file: 
 `node index.js`
  <p dir="auto"><img src="usage.jpg" alt="usage" style="max-width: 100%;" /></p>
 
